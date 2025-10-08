@@ -5,8 +5,17 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0001-two-sum) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
