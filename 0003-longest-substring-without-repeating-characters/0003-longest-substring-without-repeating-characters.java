@@ -1,5 +1,7 @@
 class Solution {
     public static int lengthOfLongestSubstring(String s) {
+        // declare maxLen
+        // declare start
         int maxLen = 0;
         int start = 0;
         int[] lastIndex = new int[128]; // For ASCII characters
