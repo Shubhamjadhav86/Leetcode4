@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
