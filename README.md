@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0066-plus-one) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,8 +55,22 @@
 | ------- |
 | [0066-plus-one](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0067-add-binary) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0067-add-binary) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
