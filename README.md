@@ -38,6 +38,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0171-excel-sheet-column-number) |
 ## String Matching
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0171-excel-sheet-column-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
