@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0389-find-the-difference](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0067-add-binary](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0389-find-the-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
@@ -77,4 +80,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
