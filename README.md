@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0344-reverse-string) |
 ## String
 |  |
