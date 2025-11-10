@@ -60,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0171-excel-sheet-column-number) |
@@ -67,6 +68,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0389-find-the-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/1993-sum-of-all-subset-xor-totals) |
