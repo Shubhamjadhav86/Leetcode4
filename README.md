@@ -34,6 +34,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0389-find-the-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
