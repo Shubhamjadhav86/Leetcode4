@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -17,6 +18,7 @@
 | [0001-two-sum](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0041-first-missing-positive) |
 | [0389-find-the-difference](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
