@@ -19,6 +19,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0041-first-missing-positive) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
@@ -51,6 +52,7 @@
 | [0067-add-binary](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0392-is-subsequence) |
 ## String Matching
@@ -112,4 +114,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0002-add-two-numbers) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shubhamjadhav86/Leetcode4/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
